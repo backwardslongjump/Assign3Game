@@ -66,7 +66,7 @@
             "Key": "1f9c1ffa-fa3d-482e-86c3-0d4e36c6dfe4",
             "Value": {
                 "id": "a151efec-ccd6-4e2a-89c2-032cee87ca43",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\starAnimated\\starAnimated.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "525f8bdf-c3ec-40d0-b7d0-192b5e82f00d",
+            "Value": {
+                "id": "466d709b-6c17-4d94-9a37-631477966979",
+                "resourcePath": "objects\\star\\star.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5d733997-a0bc-4ad0-8804-1a79a3908e6e",
+            "Value": {
+                "id": "0b1d75aa-2cf0-4522-b192-808d467e8c68",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "66107b7b-1073-40f7-81b4-2fa719c6e0b7",
             "Value": {
                 "id": "ab38b419-1058-450e-a91e-21c9e7c56226",
@@ -108,6 +124,22 @@
                 "id": "800d1681-414c-4fa2-b609-3f7cfdb1bc6e",
                 "resourcePath": "sprites\\playerShip\\playerShip.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6d466072-6d6f-479f-86b5-ff39625b180b",
+            "Value": {
+                "id": "26271fdb-f005-49a2-a5f4-a99d815dcaa5",
+                "resourcePath": "objects\\object2\\object2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6f7cf7b3-d298-4819-8769-6280774ddaf0",
+            "Value": {
+                "id": "f728b986-fef7-483e-b8b7-9113add8fbc4",
+                "resourcePath": "objects\\obj_laser\\obj_laser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +183,14 @@
             }
         },
         {
+            "Key": "d16d87fa-deb2-47de-9774-0f9f1eac0cd4",
+            "Value": {
+                "id": "34cacfb2-c66e-4766-8507-3ec2cd213c2d",
+                "resourcePath": "sprites\\laser\\laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d5c1a07d-8cb1-4d76-85c6-cdacf2cda316",
             "Value": {
                 "id": "5b1f7609-d3a9-41ac-abd5-e37a3af49e10",
@@ -178,7 +218,7 @@
             "Key": "ea5fca0e-8fa1-43b5-8d55-384b6b7c0272",
             "Value": {
                 "id": "f9b30f38-5537-49e8-a2cf-4e25c25f6f63",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\game\\game.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -188,6 +228,14 @@
                 "id": "7d8dddef-8197-4fd6-8626-9de5baaf1308",
                 "resourcePath": "views\\f8fb7c14-d05b-4aba-83c1-dda0c35bfe4b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc9b56f8-84f1-4533-89b1-8bdfb038f41b",
+            "Value": {
+                "id": "cc2662d2-83af-4f0b-a121-c8da938e649f",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

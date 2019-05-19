@@ -5,7 +5,17 @@
     "name": "player",
     "eventList": [
         {
-            "id": "e526b940-21aa-45c6-852d-77a3983cd33e",
+            "id": "eeb11c75-a6f0-4f6a-a222-2fc68e09149b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "08bcde94-d085-47ac-9f5f-6a6c14d1385c"
+        },
+        {
+            "id": "b9054b0d-8c2a-4ac1-9cb3-4e8daec7a8c5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -15,7 +25,7 @@
             "m_owner": "08bcde94-d085-47ac-9f5f-6a6c14d1385c"
         },
         {
-            "id": "869956d7-6d2a-4397-8121-d6fe3e82eedc",
+            "id": "4d60c56d-5c30-4009-81f7-16251961f157",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -25,7 +35,7 @@
             "m_owner": "08bcde94-d085-47ac-9f5f-6a6c14d1385c"
         },
         {
-            "id": "050d5277-d4ed-47ef-82ad-e6f3258e9627",
+            "id": "6e87d53c-6e13-4ce7-8173-0a67f5018ffe",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -35,13 +45,23 @@
             "m_owner": "08bcde94-d085-47ac-9f5f-6a6c14d1385c"
         },
         {
-            "id": "8a39204f-fe5c-400d-bb10-7c1204851178",
+            "id": "d2d7e6f4-ba81-40c3-b786-0278e262d18d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 40,
             "eventtype": 5,
+            "m_owner": "08bcde94-d085-47ac-9f5f-6a6c14d1385c"
+        },
+        {
+            "id": "380802c3-3d51-42a1-a33e-3e5ca1f50250",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
             "m_owner": "08bcde94-d085-47ac-9f5f-6a6c14d1385c"
         }
     ],
