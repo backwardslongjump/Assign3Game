@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "14e35797-a3e9-44f6-83fe-cc9bcfdb5323",
+            "Value": {
+                "id": "3f6d6511-c474-412b-8586-93b990665861",
+                "resourcePath": "sprites\\rock1HP\\rock1HP.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1727e479-491a-4b82-835e-5068be6a80f8",
             "Value": {
                 "id": "e6912c04-5857-4d58-9b37-671a3a8dbe0d",
                 "resourcePath": "views\\1727e479-491a-4b82-835e-5068be6a80f8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1d9b571b-30ee-49c3-b9d1-aeeb6aec52c9",
+            "Value": {
+                "id": "36096e77-a1a9-4af7-b278-69f0698a5e68",
+                "resourcePath": "sprites\\rock2HP\\rock2HP.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
