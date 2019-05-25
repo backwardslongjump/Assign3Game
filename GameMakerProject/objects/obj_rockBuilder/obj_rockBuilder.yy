@@ -2,7 +2,7 @@
     "id": "1ded3bb1-1f39-426c-b7e5-444e4bf79fe9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_dead_rock",
+    "name": "obj_rockBuilder",
     "eventList": [
         {
             "id": "c9d4a206-d020-40b5-895a-d28a40436ed5",

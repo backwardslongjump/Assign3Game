@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "04814281-0ef0-4dce-b4ee-5b4eb71e947f",
+            "Value": {
+                "id": "2976c877-bc3b-46f9-884e-8e7fc1c67818",
+                "resourcePath": "objects\\obj_starBuilder\\obj_starBuilder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08bcde94-d085-47ac-9f5f-6a6c14d1385c",
             "Value": {
                 "id": "12ab981a-aff1-4adc-af9e-39ac9ba7ee21",
@@ -74,7 +82,7 @@
             "Key": "1ded3bb1-1f39-426c-b7e5-444e4bf79fe9",
             "Value": {
                 "id": "e306a212-b5e1-4eb8-885e-0db647e717ea",
-                "resourcePath": "objects\\obj_dead_rock\\obj_dead_rock.yy",
+                "resourcePath": "objects\\obj_rockBuilder\\obj_rockBuilder.yy",
                 "resourceType": "GMObject"
             }
         },
