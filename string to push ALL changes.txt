@@ -1,1 +1,0 @@
-git add -A && git commit -a -m a message describing what you did && git push origin master
