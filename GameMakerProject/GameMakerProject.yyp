@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "38009118-e0a1-4f61-a07b-85bdad7285ed",
+            "Value": {
+                "id": "2b089433-703c-4966-9bf0-1aaa3f0945f4",
+                "resourcePath": "objects\\obj_powerUp\\obj_powerUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f5aa104-2ed4-42a4-a3db-7815612bedcd",
             "Value": {
                 "id": "083d544f-1741-43d8-bf24-60e8d221a8bf",
@@ -243,6 +251,14 @@
             "Value": {
                 "id": "34cacfb2-c66e-4766-8507-3ec2cd213c2d",
                 "resourcePath": "sprites\\laser\\laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4d0545b-e1d9-43ce-8ba4-190f3aadf8c6",
+            "Value": {
+                "id": "9216ae9f-3e2c-489b-a458-1c4b563c8bbc",
+                "resourcePath": "sprites\\spr_powerUp\\spr_powerUp.yy",
                 "resourceType": "GMSprite"
             }
         },
