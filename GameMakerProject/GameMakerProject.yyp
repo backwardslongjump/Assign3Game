@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "3fd38086-648c-43ca-a3a9-8e26739f7399",
+            "Value": {
+                "id": "a5c7655f-ac2b-4bd5-a1f8-07e6f10b5e14",
+                "resourcePath": "sprites\\spr_heart\\spr_heart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44b4706c-2bd4-4aca-b8cf-47a4a41126a2",
             "Value": {
                 "id": "91917811-57a1-4a2e-8fb9-322fb168422f",
@@ -347,6 +355,14 @@
             "Value": {
                 "id": "f9b30f38-5537-49e8-a2cf-4e25c25f6f63",
                 "resourcePath": "rooms\\game\\game.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ebecc39e-c590-436f-af3c-2570e5eb69ef",
+            "Value": {
+                "id": "85346427-0e5a-4624-8067-14fe01a3c44b",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
                 "resourceType": "GMRoom"
             }
         },
