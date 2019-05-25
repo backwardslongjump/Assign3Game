@@ -1,10 +1,17 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDVersion : 1
+/// @DnDHash : 38BB4897
+/// @DnDArgument : "health" "-25"
+/// @DnDArgument : "health_relative" "1"
+if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
+__dnd_health += real(-25);
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 23FD7605
-/// @DnDArgument : "lives" "-1"
 /// @DnDArgument : "lives_relative" "1"
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-__dnd_lives += real(-1);
+__dnd_lives += real(0);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
