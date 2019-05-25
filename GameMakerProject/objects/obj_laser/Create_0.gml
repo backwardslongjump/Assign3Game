@@ -1,3 +1,15 @@
+/// @DnDAction : YoYo Games.Particles.Effect
+/// @DnDVersion : 1
+/// @DnDHash : 08A58D42
+/// @DnDArgument : "x" "3"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "-60"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "type" "8"
+/// @DnDArgument : "size" "1"
+/// @DnDArgument : "color" "$FF15FF00"
+effect_create_below(8, x + 3, y + -60, 1, $FF15FF00 & $ffffff);
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 35E4AF8A
