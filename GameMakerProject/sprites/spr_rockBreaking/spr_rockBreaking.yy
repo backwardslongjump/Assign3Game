@@ -2,7 +2,7 @@
     "id": "8dfde2e9-f812-4009-8703-3ff2675493d2",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "rockBreaking",
+    "name": "spr_rockBreaking",
     "For3D": false,
     "HTile": false,
     "VTile": false,

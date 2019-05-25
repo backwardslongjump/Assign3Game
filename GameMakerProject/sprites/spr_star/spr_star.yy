@@ -2,7 +2,7 @@
     "id": "1f9c1ffa-fa3d-482e-86c3-0d4e36c6dfe4",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "starAnimated",
+    "name": "spr_star",
     "For3D": false,
     "HTile": false,
     "VTile": false,
