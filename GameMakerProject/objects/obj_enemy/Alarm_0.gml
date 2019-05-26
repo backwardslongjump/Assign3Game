@@ -11,4 +11,5 @@ instance_create_layer(x + 0, y + 0, "Instances_1", obj_laserEnemy);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2CD16E2B
-alarm_set(0, 30);
+/// @DnDArgument : "steps" "90"
+alarm_set(0, 90);
