@@ -22,6 +22,5 @@ draw_self();
 /// @DnDHash : 45A811EE
 /// @DnDArgument : "x" "500"
 /// @DnDArgument : "y" "500"
-/// @DnDArgument : "caption" ""Asteroids Destroyed: ""
-/// @DnDArgument : "var" "global.hits"
-draw_text(500, 500, string("Asteroids Destroyed: ") + string(global.hits));
+/// @DnDArgument : "caption" ""
+draw_text(500, 500,  + "");
