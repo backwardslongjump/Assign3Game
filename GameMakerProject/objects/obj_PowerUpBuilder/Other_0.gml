@@ -11,8 +11,8 @@ spawnPowerUp = floor(random_range(0, 7 + 1));
 /// @DnDHash : 132D2642
 /// @DnDArgument : "var" "spawnPowerUp"
 /// @DnDArgument : "op" "2"
-/// @DnDArgument : "value" "5"
-if(spawnPowerUp > 5)
+/// @DnDArgument : "value" "6"
+if(spawnPowerUp > 6)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1

@@ -13,8 +13,8 @@ draw_set_font(fnt_arial32);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 08EEEF87
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "x" "437"
+/// @DnDArgument : "y" "624"
 /// @DnDArgument : "caption" ""
 /// @DnDArgument : "var" ""Play""
-draw_text(x + 0, y + 0,  + string("Play"));
+draw_text(437, 624,  + string("Play"));
