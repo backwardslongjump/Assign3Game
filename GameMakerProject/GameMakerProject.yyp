@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "074366ce-f531-4215-88ce-d9b76da6b703",
+            "Value": {
+                "id": "cebc9b6f-2b72-44ed-a072-38451d6b9bd6",
+                "resourcePath": "objects\\obj_healthBuilder\\obj_healthBuilder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08bcde94-d085-47ac-9f5f-6a6c14d1385c",
             "Value": {
                 "id": "12ab981a-aff1-4adc-af9e-39ac9ba7ee21",
@@ -188,14 +196,6 @@
                 "id": "88db8fb4-8e84-4e19-8032-a6f8f668febd",
                 "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4fe3c7e3-4ef1-4176-a6ec-0a378ccee399",
-            "Value": {
-                "id": "5a43f911-f939-452b-bc10-358747767642",
-                "resourcePath": "objects\\obj_powerUp4x\\obj_powerUp4x.yy",
-                "resourceType": "GMObject"
             }
         },
         {
