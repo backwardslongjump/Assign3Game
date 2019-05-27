@@ -2,7 +2,7 @@
     "id": "074366ce-f531-4215-88ce-d9b76da6b703",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_healthBuilder",
+    "name": "obj_PowerUpBuilder",
     "eventList": [
         {
             "id": "ff55868d-315a-4462-809f-e8cc2d8bd419",

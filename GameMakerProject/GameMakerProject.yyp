@@ -50,7 +50,7 @@
             "Key": "074366ce-f531-4215-88ce-d9b76da6b703",
             "Value": {
                 "id": "cebc9b6f-2b72-44ed-a072-38451d6b9bd6",
-                "resourcePath": "objects\\obj_healthBuilder\\obj_healthBuilder.yy",
+                "resourcePath": "objects\\obj_PowerUpBuilder\\obj_PowerUpBuilder.yy",
                 "resourceType": "GMObject"
             }
         },
