@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 27DCAF33
+/// @DnDArgument : "var" "countSpawnedEnemy"
+countSpawnedEnemy = 0;
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 146AFC82
