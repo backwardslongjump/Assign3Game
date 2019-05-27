@@ -1,3 +1,29 @@
+/// @DnDAction : YoYo Games.Random.Get_Random_Number
+/// @DnDVersion : 1
+/// @DnDHash : 1B8C1877
+/// @DnDArgument : "var" "spawnPowerUp"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "max" "15"
+spawnPowerUp = floor(random_range(0, 15 + 1));
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2003BC46
+/// @DnDArgument : "var" "spawnPowerUp"
+/// @DnDArgument : "value" "15"
+if(spawnPowerUp == 15)
+{
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 69391E31
+	/// @DnDParent : 2003BC46
+	/// @DnDArgument : "xpos" "random(room_width)"
+	/// @DnDArgument : "objectid" "obj_powerUp"
+	/// @DnDArgument : "layer" ""Instances_1""
+	/// @DnDSaveInfo : "objectid" "38009118-e0a1-4f61-a07b-85bdad7285ed"
+	instance_create_layer(random(room_width), 0, "Instances_1", obj_powerUp);
+}
+
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 0A20FDAB
