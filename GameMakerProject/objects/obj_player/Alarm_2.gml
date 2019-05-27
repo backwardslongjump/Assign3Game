@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 4E8E5414
 /// @DnDArgument : "var" "countSpawnedEnemy"
-/// @DnDArgument : "op" "2"
-if(countSpawnedEnemy > 0)
+/// @DnDArgument : "op" "4"
+if(countSpawnedEnemy >= 0)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
