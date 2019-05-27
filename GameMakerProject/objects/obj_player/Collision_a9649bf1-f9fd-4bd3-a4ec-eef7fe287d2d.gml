@@ -15,6 +15,6 @@ powerUp = 1;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 7FC66F18
-/// @DnDArgument : "steps" "300"
+/// @DnDArgument : "steps" "500"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, 300);
+alarm_set(1, 500);
