@@ -8,9 +8,9 @@ with(other) instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 55D2DE6F
 /// @DnDArgument : "var" "health"
-/// @DnDArgument : "op" "1"
-/// @DnDArgument : "value" "100"
-if(health < 100)
+/// @DnDArgument : "op" "3"
+/// @DnDArgument : "value" "75"
+if(health <= 75)
 {
 	/// @DnDAction : YoYo Games.Instance Variables.Set_Health
 	/// @DnDVersion : 1
