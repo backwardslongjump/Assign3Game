@@ -24,5 +24,6 @@ if(__dnd_lives == 0)
 	/// @DnDHash : 136BB993
 	/// @DnDParent : 4913CD88
 	/// @DnDArgument : "room" "rm_gameover"
+	/// @DnDSaveInfo : "room" "ebecc39e-c590-436f-af3c-2570e5eb69ef"
 	room_goto(rm_gameover);
 }
