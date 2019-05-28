@@ -15,8 +15,8 @@ instance_create_layer(x + 0, y + random(room_height), "Instances_1", obj_rockBui
 /// @DnDArgument : "var" "spawnHealth"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "min" "1"
-/// @DnDArgument : "max" "15"
-spawnHealth = floor(random_range(1, 15 + 1));
+/// @DnDArgument : "max" "8"
+spawnHealth = floor(random_range(1, 8 + 1));
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
