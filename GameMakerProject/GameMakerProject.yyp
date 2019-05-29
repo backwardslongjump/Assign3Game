@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "6ba0af12-75cb-40f2-be09-14318ce0d9a1",
+            "Value": {
+                "id": "315bbe14-5438-48a3-9f2a-fadadb0e3bd2",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "6d466072-6d6f-479f-86b5-ff39625b180b",
             "Value": {
                 "id": "26271fdb-f005-49a2-a5f4-a99d815dcaa5",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "c0323394-57a1-47a1-b3c2-97f1b1b44f23",
+            "Value": {
+                "id": "d035b684-9423-4448-9cf6-4a0fc4d1306c",
+                "resourcePath": "sprites\\spr_title\\spr_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0fffdae-c121-4b60-ac79-d979c335317e",
             "Value": {
                 "id": "1bf7f9f9-4c77-4112-a70a-bba1372deedd",
@@ -356,6 +372,14 @@
                 "id": "63c09a68-618e-4c87-88f8-ab6600e9a0c2",
                 "resourcePath": "objects\\obj_laserEnemy\\obj_laserEnemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4847b71-8047-44b2-9808-c2906a91d158",
+            "Value": {
+                "id": "a7b04368-d5f2-4ecc-9ab8-2f7d626bd478",
+                "resourcePath": "sprites\\spr_startButton\\spr_startButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -412,6 +436,14 @@
                 "id": "85346427-0e5a-4624-8067-14fe01a3c44b",
                 "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f007861e-7bbe-4a2b-a151-b301eff4f63a",
+            "Value": {
+                "id": "7a82b12c-bf5f-47cd-8594-2ceb6e677752",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
