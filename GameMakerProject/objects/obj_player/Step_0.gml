@@ -8,9 +8,9 @@ if(__dnd_health == 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 6A168423
 	/// @DnDParent : 14A4D8AF
-	/// @DnDArgument : "room" "rm_gameover"
+	/// @DnDArgument : "room" "room0"
 	/// @DnDSaveInfo : "room" "ebecc39e-c590-436f-af3c-2570e5eb69ef"
-	room_goto(rm_gameover);
+	room_goto(room0);
 }
 
 /// @DnDAction : YoYo Games.Instance Variables.If_Lives

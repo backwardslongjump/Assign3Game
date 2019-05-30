@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 2F37A38E
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "var" "position"
+position = 3;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 27DCAF33
 /// @DnDArgument : "var" "countSpawnedEnemy"
 countSpawnedEnemy = 0;

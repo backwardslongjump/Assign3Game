@@ -6,8 +6,9 @@ instance_destroy();
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 0CCB9C2D
-/// @DnDArgument : "xpos" "random(room_width)"
-/// @DnDArgument : "objectid" "obj_rock2HP"
+/// @DnDArgument : "xpos" "5"
+/// @DnDArgument : "ypos" "700"
+/// @DnDArgument : "objectid" "obj_rockBuilder"
 /// @DnDArgument : "layer" ""Instances_1""
-/// @DnDSaveInfo : "objectid" "643364a5-623a-4dbe-8321-348367c035ab"
-instance_create_layer(random(room_width), 0, "Instances_1", obj_rock2HP);
+/// @DnDSaveInfo : "objectid" "1ded3bb1-1f39-426c-b7e5-444e4bf79fe9"
+instance_create_layer(5, 700, "Instances_1", obj_rockBuilder);

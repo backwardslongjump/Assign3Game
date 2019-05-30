@@ -7,7 +7,7 @@ instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 0848D982
 /// @DnDArgument : "xpos" "random(room_width)"
-/// @DnDArgument : "objectid" "obj_enemy"
+/// @DnDArgument : "objectid" "obj_enemyBuilder"
 /// @DnDArgument : "layer" ""Instances_1""
-/// @DnDSaveInfo : "objectid" "7723a1c6-d552-4d57-ba17-388f0d5da53b"
-instance_create_layer(random(room_width), 0, "Instances_1", obj_enemy);
+/// @DnDSaveInfo : "objectid" "dc7943f7-8fe2-49c0-951c-2f33c3993e8c"
+instance_create_layer(random(room_width), 0, "Instances_1", obj_enemyBuilder);

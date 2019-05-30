@@ -3,8 +3,8 @@
 /// @DnDHash : 1B8C1877
 /// @DnDArgument : "var" "spawnPowerUp"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "max" "15"
-spawnPowerUp = floor(random_range(0, 15 + 1));
+/// @DnDArgument : "max" "0"
+spawnPowerUp = floor(random_range(0, 0 + 1));
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
